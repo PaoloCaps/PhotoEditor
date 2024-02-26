@@ -1,0 +1,16 @@
+D:\VS projects\PhotoEditor\PhotoEditor\bin\Debug\net8.0-windows\PhotoEditor.exe
+D:\VS projects\PhotoEditor\PhotoEditor\bin\Debug\net8.0-windows\PhotoEditor.deps.json
+D:\VS projects\PhotoEditor\PhotoEditor\bin\Debug\net8.0-windows\PhotoEditor.runtimeconfig.json
+D:\VS projects\PhotoEditor\PhotoEditor\bin\Debug\net8.0-windows\PhotoEditor.dll
+D:\VS projects\PhotoEditor\PhotoEditor\bin\Debug\net8.0-windows\PhotoEditor.pdb
+D:\VS projects\PhotoEditor\PhotoEditor\obj\Debug\net8.0-windows\PhotoEditor.Form1.resources
+D:\VS projects\PhotoEditor\PhotoEditor\obj\Debug\net8.0-windows\PhotoEditor.csproj.GenerateResource.cache
+D:\VS projects\PhotoEditor\PhotoEditor\obj\Debug\net8.0-windows\PhotoEditor.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS projects\PhotoEditor\PhotoEditor\obj\Debug\net8.0-windows\PhotoEditor.AssemblyInfoInputs.cache
+D:\VS projects\PhotoEditor\PhotoEditor\obj\Debug\net8.0-windows\PhotoEditor.AssemblyInfo.cs
+D:\VS projects\PhotoEditor\PhotoEditor\obj\Debug\net8.0-windows\PhotoEditor.csproj.CoreCompileInputs.cache
+D:\VS projects\PhotoEditor\PhotoEditor\obj\Debug\net8.0-windows\PhotoEditor.dll
+D:\VS projects\PhotoEditor\PhotoEditor\obj\Debug\net8.0-windows\refint\PhotoEditor.dll
+D:\VS projects\PhotoEditor\PhotoEditor\obj\Debug\net8.0-windows\PhotoEditor.pdb
+D:\VS projects\PhotoEditor\PhotoEditor\obj\Debug\net8.0-windows\PhotoEditor.genruntimeconfig.cache
+D:\VS projects\PhotoEditor\PhotoEditor\obj\Debug\net8.0-windows\ref\PhotoEditor.dll
